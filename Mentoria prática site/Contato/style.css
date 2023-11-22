@@ -1,0 +1,34 @@
+
+body{
+    background-color: hsl(240, 3%, 79%);
+}
+
+.container{
+    width: 300px;
+    margin: auto;
+    position: relative;
+    color: black;
+}
+
+.conteiner img{
+    width: 100%;
+}
+
+.contato{
+    position: absolute;
+    text-align: center;
+    font-size: 70px;
+    top: 70px;
+    left: 500px;
+    padding: px;
+    color: blue;
+    
+}
+
+h1{
+    text-align:center ;
+
+}
+
+
+
